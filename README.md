@@ -1,7 +1,7 @@
 ### Hello!!!👋 I'm Pablo Chandía, a frontend developer with intentions to participate in web developments with social impact. 
 
-- 🌱  [Devhaus](https://devhausleipzig.de/)** Alumni
-- 🗣 I speak **English, Spanish
+- 🌱  [Devhaus](https://devhausleipzig.de/) Alumni
+- 🗣 I speak English, Spanish
 
 
 <h3 align="left">⚗️ My Stack:</h3>
