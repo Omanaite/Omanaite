@@ -1,8 +1,8 @@
 ### Hello!!!👋 I'm Pablo Chandía, a frontend developer with intentions to participate in web developments with social impact. 
 
-- 🌱  [Devhaus](https://devhausleipzig.de/) Alumni
+- 🌱 [Devhaus](https://devhausleipzig.de/) Alumni
 - 🗣 I speak English, Spanish
-- Actually participating in side project named [TCG Chile](https://tcgchile.cl)
+- 🎴 Actually participating in side project named [TCG Chile](https://tcgchile.cl)
 
 #### Development:
 
