@@ -32,6 +32,7 @@
 [![React Query](https://img.shields.io/badge/React%20Query-000000?style=for-the-badge&logo=react-query&logoColor=61DAFB)](https://react-query.tanstack.com/)
 [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-61DAFB?style=for-the-badge&logo=react-hook-form&logoColor=white)](https://www.react-hook-form.com)
 [![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)](https://www.json.org/json-en.html)
 [![Markdown](https://img.shields.io/badge/Markdown-grey?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
