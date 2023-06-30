@@ -35,6 +35,7 @@
 [![JSON Badge](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=for-the-badge)](https://www.json.org/json-en.html)
 [![Markdown](https://img.shields.io/badge/Markdown-grey?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 [![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=for-the-badge)](https://docs.npmjs.com/)
 
 #### Version Control & Deployment:
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
