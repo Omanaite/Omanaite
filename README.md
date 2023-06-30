@@ -2,7 +2,7 @@
 
 - 🌱 [Devhaus](https://devhausleipzig.de/) Alumni
 - 🗣 I speak English, Spanish
-- 🎴 Actually participating in side project named [TCG Chile](https://tcgchile.cl)
+- 🎴 Actually participating in side project named [TCG Chile](https://tcgchile.cl) as front-end developer
 
 #### Development:
 
