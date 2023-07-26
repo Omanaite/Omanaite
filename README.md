@@ -46,4 +46,4 @@
 
 
 #### Development Methodologies and Tools:
-[![Agile Methodologies](https://img.shields.io/badge/Agile-009639?style=for-the-badge&logo=agile&logoColor=white)](https://en.wikipedia.org/wiki/Agile_software_development) 
+[![Scrum Methodologies](https://img.shields.io/badge/Scrum-009639?style=for-the-badge&logo=scrum&logoColor=white)](https://en.wikipedia.org/wiki/Scrum_(software_development)) 
