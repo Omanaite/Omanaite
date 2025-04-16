@@ -1,7 +1,6 @@
 ### Hello!!!👋 I'm Pablo Chandía
 
-- 🌱 [Devhaus](https://devhausleipzig.de/) Alumni
-- 🗣 I speak English, Spanish
+- 🗣 English, Spanish speaker
 
 #### Development:
 
