@@ -1,22 +1,33 @@
 # 👋 I'm Pablo Chandía 
-### AI-Augmented Product Engineer | Fullstack Developer | SaaS Architect
+### AI-Augmented Product Engineer | Fullstack Developer | B1 German Speaker
 
-I bridge the gap between robust legacy systems and cutting-edge AI-driven development. [cite_start]With a background in **Computer Engineering**  [cite_start]and over 8 years of experience in technical support and development, I now specialize in building scalable SaaS solutions using **Spec-Driven Development (SDD)**.
+I bridge the gap between robust legacy systems and cutting-edge AI-driven development. With a background in Computer Engineering and extensive experience in technical support and development, I now specialize in building scalable SaaS solutions using Spec-Driven Development (SDD).
 
 ---
 
 ### 🚀 Strategic Edge:
-* [cite_start]**AI-Augmented Workflows:** Certified in "AI Development: From 0 to Production" by BIG school (2026). Expert at orchestrating LLMs as specialized agents to accelerate delivery.
-* [cite_start]**Full-Cycle Product Thinking:** Experience from junior dev to 2nd-level support engineer[cite: 22, 28], ensuring that what I build is not only functional but maintainable and scalable.
+
+* **AI-Augmented Workflows:** Certified in "AI Development: From 0 to Production" by BIG school (March 2026). Expert at orchestrating LLMs as specialized agents to accelerate delivery.
+* **Full-Cycle Product Thinking:** Experience spanning from Junior Developer to 2nd-Level Support Engineer, ensuring that what I build is not only functional but maintainable and scalable.
 * **SaaS & Fintech:** Currently architecting a multi-tenant platform for visual artists with Stripe/PayPal integrations and dynamic UI engines.
+* **Bilingual Technical Communication:** Capable of collaborating effectively in **German (B1)** and **English (B2)** environments.
 
 ---
 
 ### 🛠️ Tech Stack & Methodologies:
-* [cite_start]**Frontend:** Next.js, React, TypeScript, Tailwind CSS, Vite.js[cite: 71, 79, 82, 85].
-* [cite_start]**Backend:** Node.js, Express.js, Supabase, SQL (C#, .NET background)[cite: 23, 25, 72, 75, 189].
-* [cite_start]**Methodology:** Spec-Driven Development (SDD), Scrum, Agile[cite: 81, 201].
-* [cite_start]**Languages:** Spanish (Native) [cite: 50][cite_start], English (B2 - Professional) [cite: 49][cite_start], German (A1 - Basic)[cite: 47].
+
+* **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Vite.js.
+* **Backend:** Node.js, Express.js, Supabase, SQL (C#, .NET background).
+* **Methodology:** Spec-Driven Development (SDD), Scrum, Agile.
+* **UI/UX & Design:** Figma, Adobe Photoshop, Responsive Web Design (RWD).
+
+---
+
+### 🎓 Education & Certifications:
+
+* **Development with AI: From 0 to Production** | BIG school (2026)
+* **Junior Web Development Camp** | Devhaus Leipzig, Germany (2023)
+* **Bachelor’s Degree in Computer Engineering** | Universidad Tecnológica de Chile INACAP
 
 ---
 📫 **Let's build the future together:** [chandiapablo@outlook.com](mailto:chandiapablo@outlook.com)
