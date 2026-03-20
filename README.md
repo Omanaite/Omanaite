@@ -1,33 +1,29 @@
 # 👋 I'm Pablo Chandía 
-### AI-Augmented Product Engineer | Fullstack Developer | B1 German Speaker
+### AI-Augmented Product Engineer | Fullstack Developer | Computer Engineer
 
-I bridge the gap between robust legacy systems and cutting-edge AI-driven development. With a background in Computer Engineering and extensive experience in technical support and development, I now specialize in building scalable SaaS solutions using Spec-Driven Development (SDD).
+I bridge the gap between "Old School" resilience and "New Era" AI efficiency.
 
 ---
 
 ### 🚀 Strategic Edge:
 
-* **AI-Augmented Workflows:** Certified in "AI Development: From 0 to Production" by BIG school (March 2026). Expert at orchestrating LLMs as specialized agents to accelerate delivery.
-* **Full-Cycle Product Thinking:** Experience spanning from Junior Developer to 2nd-Level Support Engineer, ensuring that what I build is not only functional but maintainable and scalable.
-* **SaaS & Fintech:** Currently architecting a multi-tenant platform for visual artists with Stripe/PayPal integrations and dynamic UI engines.
-* **Bilingual Technical Communication:** Capable of collaborating effectively in **German (B1)** and **English (B2)** environments.
+* **Self-Taught Pioneer (TCG Chile):** I built the entire Frontend infrastructure from scratch as the sole developer, launching the system before the AI era.
+* **AI-Augmented Specialist:** Currently mastering **Spec-Driven Development (SDD)**. Certified by BIG school (March 2026).
+* **Continuous Learner:** Applying high-quality standards in AI-generated code and modern SaaS architectures.
+
+### 🛠️ Tech Stack:
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧩 Methodologies:
+![Scrum](https://img.shields.io/badge/Scrum-000?style=for-the-badge&logo=scrum&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-000?style=for-the-badge&logo=agile&logoColor=white) **Spec-Driven Development (SDD)**
 
 ---
 
-### 🛠️ Tech Stack & Methodologies:
+**Languages:**
+* 🇪🇸 **Spanish:** Native
+* 🇬🇧 **English:** B2 (Professional)
+* 🇩🇪 **German:** B1 (Intermediate / Functional)
 
-* **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Vite.js.
-* **Backend:** Node.js, Express.js, Supabase, SQL (C#, .NET background).
-* **Methodology:** Spec-Driven Development (SDD), Scrum, Agile.
-* **UI/UX & Design:** Figma, Adobe Photoshop, Responsive Web Design (RWD).
-
----
-
-### 🎓 Education & Certifications:
-
-* **Development with AI: From 0 to Production** | BIG school (2026)
-* **Junior Web Development Camp** | Devhaus Leipzig, Germany (2023)
-* **Bachelor’s Degree in Computer Engineering** | Universidad Tecnológica de Chile INACAP
-
----
-📫 **Let's build the future together:** [chandiapablo@outlook.com](mailto:chandiapablo@outlook.com)
+📫 [chandiapablo@outlook.com](mailto:chandiapablo@outlook.com)
